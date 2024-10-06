@@ -1,0 +1,21 @@
+{
+  "name": "Outside Earth",
+  "version": "0.0.0",
+  "description": "A solar system simulator",
+  "main": "orrery.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jsdom": "^3.1.0",
+    "jshint": "^2.6.0",
+    "shelljs": "^0.3.0",
+    "tar-fs": "^1.4.2",
+    "uglify-js": "^2.4.16",
+    "zombie": "^2.5.1"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+ 
